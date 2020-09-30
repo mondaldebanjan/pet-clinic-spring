@@ -41,6 +41,5 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/mondaldebanjan/pet-clinic-spring.git</developerConnection>
-	  <tag>pet-clinic-spring-0.0.2</tag>
-  </scm>
+    </scm>
 </project>
