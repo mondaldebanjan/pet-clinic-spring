@@ -34,6 +34,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<goals>install</goals>
+					<autoVersSubmodules>true</autoVersSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
