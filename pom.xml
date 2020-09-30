@@ -23,10 +23,6 @@
 	<name>pet-clinic-spring</name>
 	<description>pet-clinic-spring demo</description>
 
-	<properties>
-		<start-class>com.debanjan.petclinicspring.PetClinicSpringApplication</start-class>
-	</properties>
-
 	<dependencies>
 
 	</dependencies>
